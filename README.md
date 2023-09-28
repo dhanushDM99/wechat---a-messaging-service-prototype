@@ -1,7 +1,7 @@
 # Personal details:
- Name: Dhanushmanth savaturi
- University: IIT Bhubaneswar
- Department: Computer Science and Engineering (B-Tech)
+ 1. Name: Dhanushmanth savaturi
+ 2. University: IIT Bhubaneswar
+ 3. Department: Computer Science and Engineering (B-Tech)
 
 
 # wechat---a-messaging-service-prototype
