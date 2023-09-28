@@ -9,7 +9,7 @@ A real time messaging service prototype developed using django framework , chann
 
 ## Project Setup
 
-1. Create a virtual environment  using `py-m venv <name>`
+1. Better to create a virtual environment , to create use `py-m venv <name>`
 and activate it using `<name>\scripts\activate.bat`
 
 2. Now install dependencies using `pip install -r requirements.txt`
@@ -22,3 +22,7 @@ and activate it using `<name>\scripts\activate.bat`
 4. Atlast , Start server using `python manage.py runserver`
 
 // project_venv is the virtual environment that I created while developing the application..
+
+# system design 
+ 1. Documentation can be found in the project folder with name : Documentation 
+  
