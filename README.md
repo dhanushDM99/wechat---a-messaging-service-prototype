@@ -27,6 +27,7 @@ and activate it using `<name>\scripts\activate.bat`
 1. After starting the server go to the localhost given in the terminal ( http://127.0.0.1:8000/ ).
 2. Now , first signup with the credentials and then login and enter the home page/groups page .
 3. In two different tabs , login with two different accounts and start the conversation . If required can signout.
+4. Sample screenshots of the prototype can be found in the wechat/screenshots location.
 
 # system design 
  1. Documentation can be found in the project folder with name : Documentation 
