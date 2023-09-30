@@ -20,8 +20,9 @@ and activate it using `<name>\scripts\activate.bat`
     python manage.py migrate
 ```
 4. Atlast , Start server using `python manage.py runserver`
+5. If want to check admin panel , create a superuser  using `python manage.py createsuperuser` and go to  http://127.0.0.1:8000/admin .
 
-// project_venv is the virtual environment that I created while developing the application..
+   
 
 # how to use 
 1. After starting the server go to the localhost given in the terminal ( http://127.0.0.1:8000/ ).
@@ -30,4 +31,4 @@ and activate it using `<name>\scripts\activate.bat`
 4. Sample screenshots of the prototype can be found in the wechat/screenshots location.
 
 # system design 
- 1. Documentation can be found in the project folder with name : Documentation 
+ 1. Documentation can be found in the project folder with name : SD_Document.
