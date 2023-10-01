@@ -32,5 +32,5 @@ and activate it using `<name>\scripts\activate.bat`
 4. Sample screenshots of the prototype can be found in the wechat/screenshots location.
 
 # system design 
- 1. Documentation can be found in the project folder with name : SD_Document a pdf file whichn can be downloaded .
+ 1. Documentation can be found in the project folder with name : SD_Document a pdf file which can be downloaded .
  
