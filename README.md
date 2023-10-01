@@ -7,20 +7,21 @@
 # wechat---a-messaging-service-prototype
 A real time messaging service prototype developed using django framework , channels , web sockets and Rest APIs.
 
-## Project Setup
+# Project Setup
+1. First clone the repository and do the following steps ( I used VScode editor for all the work .)
 
-1. Better to create a virtual environment , to create use `py-m venv <name>`
+2. Better to create a virtual environment , to create use `py-m venv <name>`
 and activate it using `<name>\scripts\activate.bat`
 
-2. Now install dependencies using `pip install -r requirements.txt`
+3. Now install dependencies using `pip install -r requirements.txt`
 
-3. Change directory to "wechat" folder and perform migrations
+4. Change directory to "wechat" folder and perform migrations
 ```
     python manage.py makemigrations
     python manage.py migrate
 ```
-4. Atlast , Start server using `python manage.py runserver`
-5. If want to check admin panel , create a superuser  using `python manage.py createsuperuser` and go to  http://127.0.0.1:8000/admin .
+5. Atlast , Start server using `python manage.py runserver`
+6. If want to check admin panel , create a superuser  using `python manage.py createsuperuser` and go to  http://127.0.0.1:8000/admin .
 
    
 
@@ -31,4 +32,5 @@ and activate it using `<name>\scripts\activate.bat`
 4. Sample screenshots of the prototype can be found in the wechat/screenshots location.
 
 # system design 
- 1. Documentation can be found in the project folder with name : SD_Document.
+ 1. Documentation can be found in the project folder with name : SD_Document a pdf file whichn can be downloaded .
+ 
