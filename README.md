@@ -1,5 +1,5 @@
 # Personal details:
- 1. Name: Dhanushmanth savaturi
+ 1. Name: Dhanushmanth  
  2. University: IIT Bhubaneswar
  3. Department: Computer Science and Engineering (B-Tech)
 
